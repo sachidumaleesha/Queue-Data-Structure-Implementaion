@@ -19,7 +19,7 @@ start = "jdt-language-server"
 language = "java"
 
 [nix]
-channel = "stable-22_05"
+channel = "stable-22_11"
 
 [debugger]
 support = true
